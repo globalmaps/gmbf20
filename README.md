@@ -17,4 +17,4 @@ Fax number: +226-50-30-09-59
 
 URL: www.igb.bf
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/burkina.png)
+E-mail: ![email](email.png)
